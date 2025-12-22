@@ -1,5 +1,12 @@
 # 💫 About Me:
-i am current studying BS AI 3rd sem from institute of mangement sciences peshawar <br>i am doing web and app development<br>i am doing chatbot development<br>
+I’m a passionate Artificial Intelligence student with strong interest in software development and problem solving.
+I enjoy building intelligent systems and scalable applications while continuously improving my core CS fundamentals.
+
+🤖 Chatbot Developer (AI-powered & rule-based)
+🌐 Web Developer (Frontend & Backend)
+📱 App Developer
+🧩 Exploring Data Structures & Algorithms in C++
+🧠 AI & Machine Learning Enthusiast
 
 
 ## 🌐 Socials:

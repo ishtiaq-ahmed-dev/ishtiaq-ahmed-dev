@@ -1,12 +1,11 @@
 # 💫 About Me:
-I’m a passionate Artificial Intelligence student with strong interest in software development and problem solving.
-I enjoy building intelligent systems and scalable applications while continuously improving my core CS fundamentals.
-
-🤖 Chatbot Developer (AI-powered & rule-based)
-🌐 Web Developer (Frontend & Backend)
-📱 App Developer
-🧩 Exploring Data Structures & Algorithms in C++
+I’m a passionate Artificial Intelligence student with strong interest in software development and problem solving. I enjoy building intelligent systems and scalable applications while continuously improving my core CS fundamentals.<br><br>
+🤖 Chatbot Developer (AI-powered & rule-based)<br>
+🌐 Web Developer (Frontend & Backend)<br>
+📱 App Developer<br>
+🧩 Exploring Data Structures & Algorithms in C++<br>
 🧠 AI & Machine Learning Enthusiast
+
 
 
 ## 🌐 Socials:

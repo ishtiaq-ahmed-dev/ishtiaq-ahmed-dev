@@ -17,7 +17,7 @@ class IshtiaqAhmed:
     def __init__(self):
         self.username = "ishtiaq-ahmed-dev"
         self.role = "AI Student & Software Developer"
-        self.location = "Karachi, Pakistan"
+        self.location = "Peshawar, Pakistan"
         self.interests = [
             "Artificial Intelligence",
             "Machine Learning",

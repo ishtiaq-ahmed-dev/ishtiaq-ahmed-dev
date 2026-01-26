@@ -1,31 +1,189 @@
-# 💫 About Me:
-I’m a passionate Artificial Intelligence student with strong interest in software development and problem solving. I enjoy building intelligent systems and scalable applications while continuously improving my core CS fundamentals.<br><br>
-🤖 Chatbot Developer (AI-powered & rule-based)<br>
-🌐 Web Developer (Frontend & Backend)<br>
-📱 App Developer<br>
-🧩 Exploring Data Structures & Algorithms in C++<br>
-🧠 AI & Machine Learning Enthusiast
+<div align="center">
 
+# 👋 Hi, I'm Ishtiaq Ahmed
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+Student+%7C+Software+Developer;Building+Intelligent+Systems;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ishtiaq Khattak) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ishtiaq_khattak_21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ishtiaq Ahmed) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Start_coding_today_1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iashtiaqkhattak@gmail.com) 
+[![Profile Views](https://komarev.com/ghpvc/?username=ishtiaq-ahmed-dev&color=00D9FF&style=flat-square&label=Profile+Views)](https://github.com/ishtiaq-ahmed-dev)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ishtiaq-ahmed-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ishtiaq-ahmed-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiaq-ahmed-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ishtiaq-ahmed-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ishtiaq-ahmed-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ishtiaq-ahmed-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+```python
+class IshtiaqAhmed:
+    def __init__(self):
+        self.username = "ishtiaq-ahmed-dev"
+        self.role = "AI Student & Software Developer"
+        self.location = "Karachi, Pakistan"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Full Stack Development",
+            "Problem Solving"
+        ]
+    
+    def current_focus(self):
+        return {
+            "learning": ["DSA in C++", "Deep Learning", "Cloud Computing"],
+            "building": ["AI Chatbots", "Web Applications", "Mobile Apps"],
+            "exploring": ["Computer Vision", "NLP", "MLOps"]
+        }
+    
+    def get_daily_motto(self):
+        return "Code, Learn, Build, Repeat 🔄"
+```
+
+<div align="center">
+
+### 💡 What I Do
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
+<br><b>AI Development</b>
+<br>Building intelligent chatbots and ML models
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/code.png" width="60"/>
+<br><b>Full Stack Development</b>
+<br>Creating scalable web & mobile apps
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/data-configuration.png" width="60"/>
+<br><b>DSA & Algorithms</b>
+<br>Strengthening CS fundamentals
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks & Libraries
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### Cloud & Deployment
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishtiaq-ahmed-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiaq-ahmed-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishtiaq-ahmed-dev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishtiaq-ahmed-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ishtiaq-ahmed-dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🔥 Top Repositories
+
+<div align="center">
+  <a href="https://github.com/ishtiaq-ahmed-dev">
+    <img src="https://github-contributor-stats.vercel.app/api?username=ishtiaq-ahmed-dev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" alt="Top Contributed Repo"/>
+  </a>
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ishtiaq-Ahmed)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Ishtiaq-Khattak)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ishtiaq_khattak_21)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Start_coding_today_1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iashtiaqkhattak@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🎯 Current Goals for 2026
+
+```diff
++ Master Advanced DSA in C++
++ Build 5+ Production-Ready AI Projects
++ Contribute to Open Source
++ Learn System Design & Architecture
++ Grow GitHub Community
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/ishtiaq-ahmed-dev/ishtiaq-ahmed-dev/output/github-contribution-grid-snake-dark.svg)
+
+<sub>⭐️ From [ishtiaq-ahmed-dev](https://github.com/ishtiaq-ahmed-dev) | Last Updated: Automatically via GitHub Actions</sub>
+
+</div>

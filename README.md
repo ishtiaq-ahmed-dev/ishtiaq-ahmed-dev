@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ishtiaq Ahmed
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Artificial+Intelligence+Student;Software+Developer+%26+Problem+Solver;Building+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+Student+%7C+Software+Developer;Building+Intelligent+Systems;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ishtiaq-ahmed-dev&color=00D9FF&style=flat-square&label=Profile+Views)](https://github.com/ishtiaq-ahmed-dev)
 
@@ -12,23 +12,55 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Artificial Intelligence student** with a strong interest in software development and problem-solving. I enjoy building intelligent systems and scalable applications while continuously improving my core computer science fundamentals.
-
-### What I Do:
-
-- 🤖 **AI Development** - Creating chatbots (AI-powered & rule-based)
-- 🌐 **Web Development** - Building full-stack applications (Frontend & Backend)
-- 📱 **App Development** - Developing mobile and desktop applications
-- 🧩 **DSA Enthusiast** - Exploring Data Structures & Algorithms in C++
-- 🧠 **ML & AI** - Working with Machine Learning and Deep Learning models
-
-### Currently:
-
+```python
+class IshtiaqAhmed:
+    def __init__(self):
+        self.username = "ishtiaq-ahmed-dev"
+        self.role = "AI Student & Software Developer"
+        self.location = "Karachi, Pakistan"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Full Stack Development",
+            "Problem Solving"
+        ]
+    
+    def current_focus(self):
+        return {
+            "learning": ["DSA in C++", "Deep Learning", "Cloud Computing"],
+            "building": ["AI Chatbots", "Web Applications", "Mobile Apps"],
+            "exploring": ["Computer Vision", "NLP", "MLOps"]
+        }
+    
+    def get_daily_motto(self):
+        return "Code, Learn, Build, Repeat 🔄"
 ```
-📚 Learning: Advanced DSA, Deep Learning, Computer Vision
-💻 Building: AI-powered applications and web platforms
-🎯 Goal: Master system design and contribute to open source
-```
+
+<div align="center">
+
+### 💡 What I Do
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
+<br><b>AI Development</b>
+<br>Building intelligent chatbots and ML models
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/code.png" width="60"/>
+<br><b>Full Stack Development</b>
+<br>Creating scalable web & mobile apps
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/data-configuration.png" width="60"/>
+<br><b>DSA & Algorithms</b>
+<br>Strengthening CS fundamentals
+</td>
+</tr>
+</table>
 
 ---
 
@@ -56,7 +88,7 @@ I'm a passionate **Artificial Intelligence student** with a strong interest in s
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### Cloud & DevOps
+### Cloud & Deployment
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -66,13 +98,12 @@ I'm a passionate **Artificial Intelligence student** with a strong interest in s
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase_DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Tools
+### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
 
@@ -81,28 +112,34 @@ I'm a passionate **Artificial Intelligence student** with a strong interest in s
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ishtiaq-ahmed-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiaq-ahmed-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishtiaq-ahmed-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiaq-ahmed-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img width="80%" src="https://streak-stats.demolab.com/?user=ishtiaq-ahmed-dev&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishtiaq-ahmed-dev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
 </div>
 
----
-
-## 🏆 GitHub Achievements
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishtiaq-ahmed-dev&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishtiaq-ahmed-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishtiaq-ahmed-dev&theme=github-compact&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ishtiaq-ahmed-dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🔥 Top Repositories
+
+<div align="center">
+  <a href="https://github.com/ishtiaq-ahmed-dev">
+    <img src="https://github-contributor-stats.vercel.app/api?username=ishtiaq-ahmed-dev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" alt="Top Contributed Repo"/>
+  </a>
 </div>
 
 ---
@@ -123,13 +160,19 @@ I'm a passionate **Artificial Intelligence student** with a strong interest in s
 
 <div align="center">
 
-### 💭 Dev Quote of the Day
+### 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### ⚡ Fun Fact
+### 🎯 Current Goals for 2026
 
-*"I believe in learning by doing - every project is a new adventure in problem-solving!"*
+```diff
++ Master Advanced DSA in C++
++ Build 5+ Production-Ready AI Projects
++ Contribute to Open Source
++ Learn System Design & Architecture
++ Grow GitHub Community
+```
 
 </div>
 

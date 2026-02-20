@@ -10,32 +10,6 @@
 
 ---
 
-## 🚀 About Me
-
-```python
-class IshtiaqAhmed:
-    def __init__(self):
-        self.username = "ishtiaq-ahmed-dev"
-        self.role = "AI Student & Software Developer"
-        self.location = "Peshawar, Pakistan"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Full Stack Development",
-            "Problem Solving"
-        ]
-    
-    def current_focus(self):
-        return {
-            "learning": ["DSA in C++", "Deep Learning", "Cloud Computing"],
-            "building": ["AI Chatbots", "Web Applications", "Mobile Apps"],
-            "exploring": ["Computer Vision", "NLP", "MLOps"]
-        }
-    
-    def get_daily_motto(self):
-        return "Code, Learn, Build, Repeat 🔄"
-```
-
 <div align="center">
 
 ### 💡 What I Do

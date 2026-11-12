@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Ishtiaq Ahmed: AI Systems Engineer and Full-Stack Developer. Neural flight control, biomedical AI research, production web platforms." src="assets/header-light.svg" width="100%">
+  <img alt="Ishtiaq Ahmed: AI Systems Engineer and Full-Stack Developer. Machine learning, deep learning, neural networks and LLMs." src="assets/header-light.svg" width="100%">
 </picture>
 
 <p align="center">

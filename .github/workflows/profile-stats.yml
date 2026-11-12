@@ -1,0 +1,31 @@
+name: Profile stats
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/profile_stats.py, .github/workflows/profile-stats.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: actions/setup-python@v7.1.0
+        with:
+          python-version: "3.12"
+      - run: python scripts/profile_stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit refreshed images
+        run: |
+          git add assets
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git -c user.name="Ishtiaq Ahmed" -c user.email="186462277+ishtiaq-ahmed-dev@users.noreply.github.com" \
+            commit -m "chore: refresh profile stats"
+          git push

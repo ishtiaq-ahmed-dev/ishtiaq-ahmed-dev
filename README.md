@@ -82,12 +82,12 @@ Speaker enrolment, identification and verification on GE2E voice embeddings, wit
 </td>
 <td width="50%" valign="top">
 
-### ISHTI (private)
-A personal, local-first AI assistant: voice in and out, retrieval over personal notes with ChromaDB, and tool-driven agents running on local models through Ollama.
+### [ISHTI](https://github.com/ishtiaq-ahmed-dev/ishti-ai)
+A private, local-first personal AI assistant for Windows: wake word and on-device speech, 123 skills, MCP client and server, Agent Skills, WhatsApp · Telegram · Discord · Slack, background tasks and webhooks. Anything that sends, deletes or pays waits for the owner's yes.
 
-**Runs locally, no cloud dependency**
+**0 model calls for rule-owned requests, at most 1 otherwise · local or any OpenAI-compatible API**
 
-`Python` `Ollama` `RAG` `Agents`
+`Python` `FastAPI` `React` `Ollama` `MCP` `Agents`
 
 </td>
 </tr>
